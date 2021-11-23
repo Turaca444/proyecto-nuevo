@@ -1,0 +1,6 @@
+[core]
+    remote = proyecto-nuevo
+['remote "dvc1"']
+    url = gdrive://1PCuSCETuaUPuhO9-SZ3aBCxTm4JyXjId
+['remote "proyecto-nuevo"']
+    url = gdrive://1PCuSCETuaUPuhO9-SZ3aBCxTm4JyXjId
